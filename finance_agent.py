@@ -1,4 +1,4 @@
-!git clone https://www.modelscope.cn/datasets/BJQW14B/bs_challenge_financial_14b_dataset.git
+git clone https://www.modelscope.cn/datasets/BJQW14B/bs_challenge_financial_14b_dataset.git
 import streamlit as st
 import os
 import sqlite3
